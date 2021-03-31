@@ -1,4 +1,4 @@
 #
 
-[GitHub](https://github.com/benukhanov) |
-[LinkedIn](https://linkedin.com/in/benukhanov)
+[![GitHub](/images/github.png)](https://github.com/benukhanov)
+[![LinkedIn](/images/linkedin.png)](https://linkedin.com/in/benukhanov)
