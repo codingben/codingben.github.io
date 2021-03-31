@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import ReactMarkdown from "react-markdown";
-import AboutMarkdown from "./assets/about.md";
-import ContactMarkdown from "./assets/contact.md";
+import AboutMarkdown from "../assets/about.md";
+import ContactMarkdown from "../assets/contact.md";
 import "./App.css";
 
 class App extends Component {

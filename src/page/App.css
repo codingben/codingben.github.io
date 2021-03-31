@@ -1,9 +1,12 @@
 .App {
+  color: rgba(0,0,0,.8);
+  font-family: sans-serif;
   font-size: 20px;
+  width: 90%;
   max-width: 960px;
   margin: auto;
   position: absolute;
-  top: 30%;
+  top: 50%;
   left: 50%;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
