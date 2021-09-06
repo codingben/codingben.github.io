@@ -7,7 +7,9 @@ import "./App.css";
 class App extends Component {
   constructor() {
     super();
-
+    
+    document.body.style.backgroundColor = "#cecece";
+    
     this.state = {
       about: "",
       contact: "",
