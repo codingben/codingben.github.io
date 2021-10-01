@@ -8,8 +8,6 @@ class App extends Component {
   constructor() {
     super();
     
-    document.body.style.backgroundColor = "#cecece";
-    
     this.state = {
       about: "",
       contact: "",
@@ -30,9 +28,9 @@ class App extends Component {
     const { about, contact } = this.state;
 
     return (
-      <div className="App">
+      <div className="about">
         <ReactMarkdown source={about} />
-        <div className="Center">
+        <div className="contact">
           <ReactMarkdown source={contact} />
         </div>
       </div>
