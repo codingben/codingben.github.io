@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import ReactMarkdown from "react-markdown";
 import AboutMarkdown from "../assets/about.md";
 import ContactMarkdown from "../assets/contact.md";
-import "./App.css";
+import "./app.css";
 
 class App extends Component {
   constructor() {
