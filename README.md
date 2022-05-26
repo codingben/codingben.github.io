@@ -1,11 +1,11 @@
 # Personal Website
 
-Available at: [ukben.dev](https://ukben.dev)
+Available at: [codingben.io](https://codingben.io)
 
 ## Setup
 
-1. `git clone https:\\github.com\benukhanov\benukhanov.github.io`
-2. `cd benukhanov.github.io`
+1. `git clone https:\\github.com\codingben\codingben.github.io`
+2. `cd codingben.github.io`
 3. `npm i`
 
 ## Deployment
